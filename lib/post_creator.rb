@@ -1,4 +1,4 @@
-re 'etc'
+require 'etc'
 require 'date'
 
 class PostCreator
